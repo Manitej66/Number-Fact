@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CAClB,gBAAiB,CACjB,qBACF,CAEA,GACE,SACF","file":"main.a4135acf.chunk.css","sourcesContent":[".App {\n  text-align: center;\n  min-height: 100vh;\n  background-color: #000;\n}\n\n.S {\n  width: 80%;\n}\n"]}
